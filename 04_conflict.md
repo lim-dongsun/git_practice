@@ -14,7 +14,7 @@ git cherry-pick {branch name or commit id}
 
 * conflict 표시 확인(`<<<<<<<`, `=======`, `>>>>>>>`)
 
-![009](/Users/1004790/workspace/git_practice/image/009.png)
+![009](C:\Users\Dell3571\git_2\image009.png)
 
 * merge/cherry-pick 중단
 
